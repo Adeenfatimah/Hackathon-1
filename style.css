@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "roboto";
+    src: url(fonts/Roboto-VariableFont_wdth\,wght.ttf);
+}
+
+body{
+    font-family: "roboto";
+    background-image: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+}
+
+.herobtn{
+    background-image: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
+}
+.navbtnone{
+    background-image: linear-gradient(90deg, #FFE259 0%, #FFA751 100%) !important;
+}
